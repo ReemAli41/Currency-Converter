@@ -1,0 +1,43 @@
+body {
+    background-color: #ecf0f1;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin-top: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #3498db;
+    border-radius: 8px;
+    color: #fff;
+    background-image: linear-gradient(to right top, #3498db, #2c3e50);
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  select {
+    padding: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #2980b9;
+    border-color: #2980b9;
+  }
+  
+  .btn-primary:hover {
+    background-color: #1c70a6;
+    border-color: #1c70a6;
+  }
+  
+  #result {
+    font-size: 18px;
+    font-weight: bold;
+    color: #d1dffa;
+  }
+  
